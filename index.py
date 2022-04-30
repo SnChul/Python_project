@@ -1,7 +1,7 @@
-'''숫자 자료형 출력'''
 from operator import truediv
 from tkinter import FALSE
 
+'''숫자 자료형 출력'''
 print(5) 
 print(-10)
 print(3.14)
