@@ -1,2 +1,2 @@
 # Python_project
-Python program dev
+Python programing study
