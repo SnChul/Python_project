@@ -1,4 +1,4 @@
-f'''숫자 자료형 출력'''
+'''숫자 자료형 출력'''
 from operator import truediv
 from tkinter import FALSE
 
