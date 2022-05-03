@@ -14,4 +14,12 @@ button2 = Button(home, padx=5, pady=10 , text="register")
 button2.pack()
 button3 = Button(home, fg="red", bg="yellow", width=10,height=3,text="b4")
 button3.pack()
+# Photo=PhotoImage(file="")
+# btn6=Button(home, image=photo)
+# btn6.pack()
+
+def hello():
+    print("Wow")
+btn7 = Button(home, text="hello" , command=hello)
+btn7.pack()
 home.mainloop()
