@@ -71,7 +71,7 @@ print(home) #중복값 무시 나머지 출력
 outdoor = set([1,5,6,7])
 print(home&outdoor)
 print(home.intersection(outdoor))
-#합집합
+#합집합             
 print(home|outdoor)
 print(home.union(outdoor))
 #차집합
